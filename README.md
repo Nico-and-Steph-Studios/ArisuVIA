@@ -1,5 +1,5 @@
 # ArisuVIA
-This keyboard layout file to be used with caniusevia.com VIA Configurator. This PCB has not been officially integrated into the VIA repository so you will need to load the layout contained in this directory into your VIA configurator installed on your computer. 
+This keyboard layout file is to be used with caniusevia.com VIA Configurator. This PCB has not been officially integrated into the VIA repository so you will need to load the layout contained in this directory into your VIA configurator installed on your computer. 
 
 Instructions: 
 --------------
